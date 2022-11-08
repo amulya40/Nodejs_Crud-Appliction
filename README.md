@@ -8,15 +8,15 @@
 >For showing dynamic content used view engine **ejs**
 
 # If you want to run on your computer
-> Goto my project path and install all the dependencies which are given in pakage.json. 
+> Goto project path and install all the dependencies which are given in pakage.json. 
 
-> Create a mongo-DB environment like "mongodb://localhost:27017/Crud"
+> Create a mongo-DB environment like "mongodb://localhost:27017/Crud".
 
 > Make sure u have no problem with the database and connect localhost with mongoDB compass.
 
-> Then in the terminal type "nodemon index.js"
+> Then in the terminal type "nodemon index.js".
 
-> Then in the browser go to http://localhost:4000/
+> Then in the browser go to http://localhost:4000/.
 
 > here our project is running....
 
